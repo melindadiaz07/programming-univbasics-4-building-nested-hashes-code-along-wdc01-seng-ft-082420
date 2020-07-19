@@ -25,11 +25,14 @@ def first_challenge
            attitude: "hot-headed"
          }
          ]
+     },
+     capulet: {
+       patriarch: {},
+       matriarch: {},
+       heroine: {},
+       heroin_friends: []
        
      }
      
-     
-     
-     
-   }
+    }
 end
